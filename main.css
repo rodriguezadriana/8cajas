@@ -1,0 +1,38 @@
+div{
+
+	border: #737373 solid;
+	
+	background-color: #73ff00;
+	height: 300px;
+	width: 300px;
+	margin-bottom: 10px;
+}
+
+.adentro{
+
+	border: #737373 solid;
+	background-color: red;
+	display: inline-block;
+	height:100px;
+	width: 100px;
+	margin: 50px;
+
+
+
+	
+}
+.segunda{
+	
+	height: 300px;
+	width: 700px;
+
+
+}
+
+#lado{
+
+    display: inline-block;
+	background-color: red;
+
+}
+
